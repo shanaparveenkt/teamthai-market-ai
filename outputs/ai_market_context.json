@@ -1,0 +1,405 @@
+{
+  "market": {
+    "liquid_detergent_products": 282,
+    "unique_brands": 90,
+    "average_price": 428.5,
+    "median_price": 349.0,
+    "minimum_price": 0.0,
+    "maximum_price": 2999.0,
+    "average_rating": 3.54,
+    "team_thai_products": 1,
+    "team_thai_brands": [
+      "Dr Wash"
+    ]
+  },
+  "team_thai": {
+    "products": [
+      {
+        "brand_standardized": "Dr Wash",
+        "product_name": "Dr Wash Liquid Detergent for Front Load Machines, Ultra... 2 L 4.5(2) ₹270₹46041% off Only few left",
+        "pack_size": "2 L",
+        "selling_price": 270.0,
+        "mrp": 460.0,
+        "rating": 4.5,
+        "rating_count": "2",
+        "price_per_100ml": 13.5
+      }
+    ]
+  },
+  "top_competitors": [
+    {
+      "brand_standardized": "Unknown",
+      "products": "27",
+      "average_price": 620.33,
+      "average_rating": 3.45,
+      "total_reviews": "1306"
+    },
+    {
+      "brand_standardized": "Ariel",
+      "products": "22",
+      "average_price": 451.2,
+      "average_rating": 4.14,
+      "total_reviews": "51179"
+    },
+    {
+      "brand_standardized": "Surf Excel",
+      "products": "17",
+      "average_price": 380.01,
+      "average_rating": 4.16,
+      "total_reviews": "19457"
+    },
+    {
+      "brand_standardized": "Safewash",
+      "products": "10",
+      "average_price": 357.56,
+      "average_rating": 3.99,
+      "total_reviews": "2672"
+    },
+    {
+      "brand_standardized": "Tide",
+      "products": "10",
+      "average_price": 237.42,
+      "average_rating": 4.26,
+      "total_reviews": "2668"
+    },
+    {
+      "brand_standardized": "Henko",
+      "products": "9",
+      "average_price": 323.09,
+      "average_rating": 4.14,
+      "total_reviews": "8342"
+    },
+    {
+      "brand_standardized": "IFB",
+      "products": "8",
+      "average_price": 910.25,
+      "average_rating": 4.34,
+      "total_reviews": "1048"
+    },
+    {
+      "brand_standardized": "Beco",
+      "products": "7",
+      "average_price": 205.71,
+      "average_rating": 3.8,
+      "total_reviews": "1122"
+    },
+    {
+      "brand_standardized": "Flisko",
+      "products": "7",
+      "average_price": 243.0,
+      "average_rating": 4.07,
+      "total_reviews": "258"
+    },
+    {
+      "brand_standardized": "IBF",
+      "products": "6",
+      "average_price": 712.33,
+      "average_rating": 2.6,
+      "total_reviews": "118"
+    }
+  ],
+  "analysis": {
+    "brand_competitors": [
+      {
+        "brand_standardized": "Active White",
+        "average_price": 249.0,
+        "average_rating": 3.2,
+        "total_reviews": "948"
+      },
+      {
+        "brand_standardized": "Aliance",
+        "average_price": 377.0,
+        "average_rating": 0.0,
+        "total_reviews": "0"
+      },
+      {
+        "brand_standardized": "Aquaone",
+        "average_price": 135.0,
+        "average_rating": 3.8,
+        "total_reviews": "85"
+      },
+      {
+        "brand_standardized": "Ariel",
+        "average_price": 451.2,
+        "average_rating": 4.14,
+        "total_reviews": "51179"
+      },
+      {
+        "brand_standardized": "Axxl",
+        "average_price": 365.0,
+        "average_rating": 0.0,
+        "total_reviews": "0"
+      },
+      {
+        "brand_standardized": "Azafran",
+        "average_price": 400.0,
+        "average_rating": 4.6,
+        "total_reviews": "5"
+      },
+      {
+        "brand_standardized": "Bb Home",
+        "average_price": 294.5,
+        "average_rating": 3.6,
+        "total_reviews": "967"
+      },
+      {
+        "brand_standardized": "Beco",
+        "average_price": 205.71,
+        "average_rating": 3.8,
+        "total_reviews": "1122"
+      }
+    ],
+    "marketplace": [
+      {
+        "marketplace": "BigBasket",
+        "average_price": 407.94,
+        "average_rating": 4.0
+      },
+      {
+        "marketplace": "Flipkart",
+        "average_price": 413.74,
+        "average_rating": 4.11
+      },
+      {
+        "marketplace": "Amazon India",
+        "average_price": 428.03,
+        "average_rating": 4.24
+      }
+    ],
+    "price_segments": [
+      {
+        "price_segment": "Budget (<₹150)",
+        "average_rating": 3.85
+      },
+      {
+        "price_segment": "High Premium (₹1000+)",
+        "average_rating": 2.55
+      },
+      {
+        "price_segment": "Mass Market (₹150–299)",
+        "average_rating": 3.36
+      },
+      {
+        "price_segment": "Mid Premium (₹300–599)",
+        "average_rating": 3.7
+      },
+      {
+        "price_segment": "Premium (₹600–999)",
+        "average_rating": 3.66
+      }
+    ],
+    "positioning": [],
+    "wash_type": [
+      {
+        "wash_type": "Not Specified"
+      },
+      {
+        "wash_type": "Front Load"
+      },
+      {
+        "wash_type": "Top Load"
+      },
+      {
+        "wash_type": "Front + Top Load"
+      },
+      {
+        "wash_type": "Hand Wash"
+      },
+      {
+        "wash_type": "Bucket Wash"
+      }
+    ],
+    "review_strength": [
+      {
+        "review_strength": "High",
+        "average_rating": 4.02
+      },
+      {
+        "review_strength": "Low",
+        "average_rating": 4.14
+      },
+      {
+        "review_strength": "Moderate",
+        "average_rating": 4.01
+      },
+      {
+        "review_strength": "No Reviews",
+        "average_rating": 1.5
+      },
+      {
+        "review_strength": "Very High",
+        "average_rating": 4.1
+      },
+      {
+        "review_strength": "Very Low",
+        "average_rating": 4.19
+      }
+    ],
+    "premium_market": [
+      {
+        "brand_standardized": "Ariel"
+      },
+      {
+        "brand_standardized": "Unknown"
+      },
+      {
+        "brand_standardized": "IFB"
+      },
+      {
+        "brand_standardized": "Surf Excel"
+      },
+      {
+        "brand_standardized": "IBF"
+      }
+    ],
+    "opportunities": [],
+    "top_rated": [
+      {
+        "brand_standardized": "Borees",
+        "product_name": "Borees Machine Wash Liquid Detergent 5L Deep Clean Fres... 5 L 5(47) ₹213₹79973% off",
+        "selling_price": 213.0,
+        "rating": 5.0,
+        "rating_count": "47"
+      },
+      {
+        "brand_standardized": "Flisko",
+        "product_name": "Flisko Ultra Clean Liquid Detergent 5L | Front & Top Lo... 5 L 5(39) ₹213₹79973% off Only few left",
+        "selling_price": 213.0,
+        "rating": 5.0,
+        "rating_count": "39"
+      },
+      {
+        "brand_standardized": "Qssiy",
+        "product_name": "QSSIY Laundry Detergent Suitable For Top Load & Front L... 5 L 5(36) ₹371₹84956% off Only few left",
+        "selling_price": 371.0,
+        "rating": 5.0,
+        "rating_count": "36"
+      },
+      {
+        "brand_standardized": "Right",
+        "product_name": "ISZK Liquid Detergent Bright Home Liquid Detergent for ... 5000 ml 5(21) ₹190₹99980% off Only few left",
+        "selling_price": 190.0,
+        "rating": 5.0,
+        "rating_count": "21"
+      },
+      {
+        "brand_standardized": "IFB",
+        "product_name": "Front Load ifb Fluff Essentials Liquid Detergent |Tough... 10 x 100 ml 5(19) ₹1,990₹3,60044% off Only few left",
+        "selling_price": 1990.0,
+        "rating": 5.0,
+        "rating_count": "19"
+      }
+    ],
+    "top_reviewed": [
+      {
+        "brand_standardized": "Mkrb",
+        "product_name": "MKRB top load and front load liquid detergent, machine,... 5000 ml 3.8(44,087) ₹200₹99979% off Hot Deal",
+        "selling_price": 200.0,
+        "rating": 3.8,
+        "rating_count": "44087"
+      },
+      {
+        "brand_standardized": "Ariel",
+        "product_name": "Ariel Topload Stain Fresh Liquid Detergent 4 kg 4.4(23,044) ₹865₹99913% off Lowest price since launch",
+        "selling_price": 865.0,
+        "rating": 4.4,
+        "rating_count": "23044"
+      },
+      {
+        "brand_standardized": "Ariel",
+        "product_name": "Ariel Power Gel Top Load & Semi Auto Liquid Detergent, 2 kg (Get 500 g Free)",
+        "selling_price": 432.25,
+        "rating": 4.2,
+        "rating_count": "9120"
+      },
+      {
+        "brand_standardized": "Genteel",
+        "product_name": "Genteel Matic Liquid Detergent - For Top Load Washing, 2 kg Pouch",
+        "selling_price": 272.6,
+        "rating": 4.2,
+        "rating_count": "9106"
+      },
+      {
+        "brand_standardized": "Surf Excel",
+        "product_name": "Surf Excel Matic Top Load Liquid Detergent, 4 kg Refill Pouch",
+        "selling_price": 524.14,
+        "rating": 4.1,
+        "rating_count": "8387"
+      }
+    ],
+    "top_discounted": [
+      {
+        "brand_standardized": "Beco",
+        "product_name": "Beco Laundry Detergent Liquid, 1 L",
+        "selling_price": 0.0,
+        "mrp": 325.0,
+        "discount_pct": 0.0
+      },
+      {
+        "brand_standardized": "Unknown",
+        "product_name": "Bodyguard Plant Based Baby Laundry Liquid Detergent, 1 L Pouch",
+        "selling_price": 0.0,
+        "mrp": 599.0,
+        "discount_pct": 0.0
+      },
+      {
+        "brand_standardized": "Febway",
+        "product_name": "FEBWAY for top & front load liquid detergent for Machin... 5000 ml 3.7(1,079) ₹130₹1,29989% off Hot Deal",
+        "selling_price": 130.0,
+        "mrp": 1299.0,
+        "discount_pct": 89.0
+      },
+      {
+        "brand_standardized": "Reldor",
+        "product_name": "RELDOR Liquid Detergent 5L, For Hand Wash, Front and To... 5 L 3.8(3,963) ₹117₹1,09989% off Hot Deal",
+        "selling_price": 117.0,
+        "mrp": 1099.0,
+        "discount_pct": 89.0
+      },
+      {
+        "brand_standardized": "Lightglow",
+        "product_name": "Lightglow Matic Liquid Detergent |Best Use For Top and ... 5000 ml 3.6(21) ₹133₹1,09987% off Hot Deal",
+        "selling_price": 133.0,
+        "mrp": 1099.0,
+        "discount_pct": 87.0
+      }
+    ],
+    "lowest_price": [
+      {
+        "brand_standardized": "Unknown",
+        "product_name": "Bodyguard Plant Based Baby Laundry Liquid Detergent, 1 L Pouch",
+        "selling_price": 0.0,
+        "pack_size": "1 L",
+        "price_per_100ml": 0.0
+      },
+      {
+        "brand_standardized": "Beco",
+        "product_name": "Beco Laundry Detergent Liquid, 1 L",
+        "selling_price": 0.0,
+        "pack_size": "1 L",
+        "price_per_100ml": 0.0
+      },
+      {
+        "brand_standardized": "Pumk",
+        "product_name": "PUMK TOP LOAD FRONT LOAD PREMIUM LIQUID DETERGENT 10L A... 10000 ml 3.7(110) ₹149₹99985% off Lowest price since launch",
+        "selling_price": 149.0,
+        "pack_size": "10000 ml",
+        "price_per_100ml": 1.49
+      },
+      {
+        "brand_standardized": "Reldor",
+        "product_name": "RELDOR Liquid Detergent 5L, For Hand Wash, Front and To... 5 L 3.8(3,963) ₹117₹1,09989% off Hot Deal",
+        "selling_price": 117.0,
+        "pack_size": "5L",
+        "price_per_100ml": 2.34
+      },
+      {
+        "brand_standardized": "Febway",
+        "product_name": "FEBWAY for top & front load liquid detergent for Machin... 5000 ml 3.7(1,079) ₹130₹1,29989% off Hot Deal",
+        "selling_price": 130.0,
+        "pack_size": "5000 ml",
+        "price_per_100ml": 2.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+
+TEAM THAI MARKET DATA SUMMARY
+
+Total liquid detergent products: 282
+Unique brands: 90
+Average price: ₹428.50
+Median price: ₹349.00
+Average rating: 3.54
+
+Team Thai products detected: 1
+
+Team Thai brands detected:
+Dr Wash
+
+Largest price segment:
+Mid Premium (₹300–599)
+
+Largest competitor brands by product count:
+Unknown, Ariel, Surf Excel, Tide, Safewash, Henko, IFB, Flisko, Beco, Cleannxo

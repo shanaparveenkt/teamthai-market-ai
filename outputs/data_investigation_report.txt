@@ -1,0 +1,136 @@
+TEAM THAI DATA INVESTIGATION REPORT
+============================================================
+
+Rows: 289
+Columns: 27
+
+COMPANY GROUPS
+company_group
+Competitor    288
+Team Thai       1
+
+BRAND COUNTS
+brand_standardized
+Unknown            27
+Ariel              22
+Surf Excel         17
+Safewash           10
+Tide               10
+Henko               9
+IFB                 8
+Beco                7
+Flisko              7
+Presto              6
+Rin                 6
+Purela              6
+Cleannxo            6
+IBF                 6
+Godrej Fab          5
+Ujala               5
+Bosch               5
+Qssiy               4
+Genteel             4
+Koparo              4
+Justmixx            4
+Right               4
+Binrola             4
+Bb Home             4
+Ghadi               3
+Shatras             3
+Staypure            3
+Iszk                3
+Drayadeals          3
+Mrn                 3
+Godrej Ezee         3
+More                2
+Moon & Mount        2
+Luvion              2
+Brillyarie          2
+K2Square            2
+Reldor              2
+Harbe               2
+R&M                 2
+Clinermax           2
+Axxl                2
+Moon                2
+Egret               2
+Trivion             2
+Born Good           2
+Bubblenut           2
+Enzo                1
+Vooki               1
+Active White        1
+Detergent           1
+Shimmer             1
+Mr White            1
+Liquid              1
+Aliance             1
+Dhaxi               1
+Sukruti             1
+Velviya             1
+Duqer               1
+Cleancraft          1
+Borees              1
+Fressho             1
+Evera               1
+Dhamu               1
+Mkrb                1
+Procent             1
+Octive              1
+Dettol              1
+Wng                 1
+Lightglow           1
+Elovia              1
+Leelambari          1
+Igreja              1
+Organic             1
+Front               1
+Dr Wash             1
+Parryware           1
+Pumk                1
+Krishpa             1
+Lisops              1
+Bryght              1
+Shynix              1
+Aquaone             1
+Febway              1
+Wokav               1
+Trending            1
+Gelveera            1
+Mr. White           1
+Patanjali           1
+Vanish              1
+Azafran             1
+Herbal Strategi     1
+Biosense            1
+Elo Clean           1
+Sunlight            1
+
+MISSING VALUES
+product_id                      0
+brand                           0
+product_name                    0
+pack_size                       0
+pack_size_value                 5
+pack_size_unit                  2
+mrp                             6
+selling_price                   1
+discount_pct                    6
+rating                         19
+rating_count                    0
+product_url                    11
+product_image_url               0
+source                          0
+collection_date                 0
+pack_size_ml                    5
+pack_size_g                   227
+price_per_100ml_calculated     68
+price_per_100g_calculated     227
+brand_standardized              0
+company_group                   0
+discount_pct_calculated         6
+product_category                0
+price_per_100ml                 6
+data_quality_score              0
+data_quality_category           0
+is_duplicate                    0
